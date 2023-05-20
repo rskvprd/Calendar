@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name" translatable="false">Calendar</string>
+    <string name="account_screen_name">Account</string>
+    <string name="calendar_screen_name">Calendar</string>
+    <string name="add_note_to_selected_date">Add note to selected date</string>
+    <string name="add_note_dialog_title">Add note</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Confirm</string>
+    <string name="note_label">Note</string>
+    <string name="add_note_instruction">Enter your note below</string>
+    <string name="added_notes_title">Notes</string>
+    <string name="on_this_day_no_notes">On this day no notes</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="edit_note_instruction">You can edit note below</string>
+    <string name="edit_note_dialog_title">Edit note</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="ok">Ok</string>
+    <string name="sign_out">Sign out</string>
+</resources>

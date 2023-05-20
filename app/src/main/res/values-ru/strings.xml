@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="account_screen_name">Аккаунт</string>
+    <string name="calendar_screen_name">Календарь</string>
+    <string name="add_note_to_selected_date">Добавить заметку на выбранный день</string>
+    <string name="add_note_dialog_title">Добавить заметку</string>
+    <string name="cancel">Отмена</string>
+    <string name="confirm">Применить</string>
+    <string name="note_label">Заметка</string>
+    <string name="add_note_instruction">Введите текст заметки ниже</string>
+    <string name="added_notes_title">Заметки</string>
+    <string name="on_this_day_no_notes">Нет заметок на этот день</string>
+    <string name="email">Email</string>
+    <string name="password">Пароль</string>
+    <string name="edit_note_instruction">Вы можете отредактировать заметку ниже</string>
+    <string name="edit_note_dialog_title">Редактирование</string>
+    <string name="sign_in">Войти</string>
+    <string name="sign_up">Зарегистрироваться</string>
+    <string name="ok">Ок</string>
+    <string name="sign_out">Выйти</string>
+</resources>

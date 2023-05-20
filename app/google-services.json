@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "254423910450",
+    "project_id": "calendar-fcb66",
+    "storage_bucket": "calendar-fcb66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254423910450:android:829bd58837ce397d91142b",
+        "android_client_info": {
+          "package_name": "com.example.calendar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254423910450-lhlin5c84sh1ota1smufcqk9d110tmpe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6wHoDimKZwM0tcJz7kO2H5mSmfS7rmSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254423910450-gkg3velot30os6e301joeqmr86gbsvj7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
