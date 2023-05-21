@@ -10,6 +10,10 @@ import com.google.firebase.ktx.Firebase
 class AccountViewModel : ViewModel() {
     var state by mutableStateOf(AccountState())
 
+    init {
+        updateCurrentUser()
+    }
+
     fun onEmailChange(email: String) {
         state = state.copy(
             email = email
@@ -33,10 +37,10 @@ class AccountViewModel : ViewModel() {
 
     fun signIn() {
         Firebase.auth.signInWithEmailAndPassword(state.email, state.password).addOnCompleteListener {
-            updateCurrentUser()
             if (it.exception != null) {
                 state = state.copy(error = it.exception!!.localizedMessage)
             }
+            updateCurrentUser()
         }
     }
 

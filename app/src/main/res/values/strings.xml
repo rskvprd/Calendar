@@ -18,4 +18,7 @@
     <string name="sign_up">Sign up</string>
     <string name="ok">Ok</string>
     <string name="sign_out">Sign out</string>
+    <string name="account_welcome">You can sign in or sign up to our system for fun</string>
+    <string name="congratulation_for_sign_in">Congratulation! You sucsessfully enter to your account! Happy birthday and happy New year!</string>
+    <string name="your_email">Your email</string>
 </resources>

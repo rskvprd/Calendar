@@ -18,4 +18,7 @@
     <string name="sign_up">Зарегистрироваться</string>
     <string name="ok">Ок</string>
     <string name="sign_out">Выйти</string>
+    <string name="account_welcome">Вы можете войти в аккаунт или зарегистрироваться по приколу</string>
+    <string name="congratulation_for_sign_in">Поздравляем! Вы успешно вошли в аккаунт! Молодец!</string>
+    <string name="your_email">Ваша почта</string>
 </resources>
